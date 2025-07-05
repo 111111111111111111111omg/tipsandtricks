@@ -1,0 +1,9 @@
+// pages/index.tsx
+export default function Home() {
+  return (
+    <main style={{ padding: "2rem", color: "white", backgroundColor: "#0d0d0d", height: "100vh" }}>
+      <h1 style={{ fontSize: "2rem" }}>Welcome to DepositBTC</h1>
+      <p>Tips & Tricks for Depositing Bitcoin — safely and smartly.</p>
+    </main>
+  );
+}
